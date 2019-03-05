@@ -13,7 +13,19 @@ Tags: two-columns, three-columns, one-column, right-sidebar, left-sidebar, foote
 Kurma is based on GeneratePress, (C) 2014-2018 EDGE22 Studios LTD.
 */
 
+/* CUSTOM CSS */
+
+.site-footer {
+	position: absolute;
+	bottom: 0;
+}
+
+
+
+/* */
+
 body{
+    background-color: white;
     padding: 0;
 }
 .top-bar,h1,h2{
