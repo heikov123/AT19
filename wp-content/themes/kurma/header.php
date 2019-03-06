@@ -16,6 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<?php wp_head(); ?>
 </head>
+	
 
 <body <?php kurma_body_schema();?> <?php body_class(); ?>>
 	<?php
